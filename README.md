@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bernardomdias
 - 🖥️ IT Support Helpdesk | Remote (UK)
-- 🍃 Learning Java
+- 🍃 Learning Swift
 - 🎉 Pull requests welcome 🥳
 
 <!---
